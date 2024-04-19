@@ -1,0 +1,8 @@
+[linux1]
+n01617667-linux1.canadacentral.cloudapp.azure.com
+n01617667-linux2.canadacentral.cloudapp.azure.com
+n01617667-linux3.canadacentral.cloudapp.azure.com
+
+[linux1:vars]
+ansible_user=vimmicherusserykkaran
+ansible_connection=ssh
